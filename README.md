@@ -11,7 +11,7 @@ The purpose of this project is to build a model to segment objects in images of 
 
 ## Program
 
-The program is written in Python.
+The program is written in Python using Jupyter Notebook and run in Google colab.
 
 ## Techniques
 
